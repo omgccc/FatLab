@@ -1,0 +1,111 @@
+.price-head{
+	padding: 50px 0;
+	text-align: center;
+}
+.price-head h1{
+	    color: #475168;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 0;
+    font-family: sans-serif;
+        margin: .67em 0;
+}
+.price-head p{
+	color: #8a8b8b;
+    font-size: 18px;
+    font-weight: 300;
+}
+.diamond{
+	width: 270px;
+	float: left;
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+.diamond .pricing-table{
+	    background: #eeeeee;
+    text-align: center;
+    padding: 0 0 25px 0;
+    border-radius: 5px;
+}
+.diamond h1{
+	font-size: 18px;
+    font-weight: 300;
+    padding-top: 15px;
+}
+.pricing-head h2{
+	padding: 30px 0;
+    background: #777777;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 100;
+}
+.pricing-head span{
+	display: inline;
+    font-size: 25px;
+    line-height: 0.8em;
+    position: relative;
+    top: -18px;
+}
+.pricing-head ul{
+	    margin: 15px 0;
+    padding: 0;
+}
+.pricing-table ul li{
+	border-bottom: 1px dotted #CCCCCC;
+    margin: 0 2em;
+    padding: 1em 0;
+    text-align: center;
+    font-weight: 300;
+list-style: none;
+}
+.pricing-table a.btn{
+	background: #acacac;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    text-shadow: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn{
+	display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+.pricing-table.popular{
+	top: -20px;
+    position: relative;
+    background: #f77b6f;
+    color: #fff;
+        padding: 0 0 25px 0;
+}
+.pricing-table.popular h1{
+	font-size: 25px ;
+    padding-bottom: 10px;
+    padding-top: 17px ;
+
+}
+.pricing-table.popular h2{
+	    background: #d76b61 ;
+    margin-top: 20px;
+}
+.pricing-table.popular .price-btn .btn{
+	background: #d76b61 ;
+    margin: 10px 0;
+}
+.pricing-table.popular li{
+	border-bottom:1px dotted #d76b61
+}
+.topbar ul li{
+	line-height: 50px;
+}

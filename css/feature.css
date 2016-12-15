@@ -1,0 +1,113 @@
+
+
+.hsize{
+	    width: 20%;
+	    float: left;
+	        position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.hsize2{
+	width: 40%;
+	float: left;
+	        position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.texts{
+	float: right;
+	width: 30%;
+		        position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.highlight_1{
+	background: #9CCE44;
+    color: #FFFFFF;
+}
+.highlight_2{
+	background: #242424;
+    color: #FFFFFF;
+}
+.highlight_3{
+	    background: #F2C600;
+    color: #242424;
+}
+.drocapf{
+	    background-color: #666666;
+    color: #FFFFFF;
+    float: left;
+    font-size: 30px;
+    line-height: 30px;
+    margin: 4px 8px 0 0;
+    padding: 5px 10px;
+    text-align: center;
+}
+.left{
+	width: 50%;
+	float: left;
+}
+.right{
+	width: 50%;float: left;
+}
+.right .drocapf{
+	border-radius: 50%;
+}
+blockquote{
+	    padding: 10px 20px;
+    margin: 0 0 20px;
+    border-left: 5px solid #eee;
+}
+.left_list{
+	    width: 47%;
+	    float: left;
+	        position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.right_list{
+	width: 47%;
+	float: left;
+	    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+ul, ol{
+	    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 50px;
+}
+.half_grid{float: left;
+	    width: 47%;
+	            position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.one_thrid_grid{
+	float: left;
+	    width: 30%;
+	            position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.one_fourth_grid{
+		float: left;
+	    width: 22%;
+	            position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.maringtop30{
+	margin-top: 30px;
+}
+ul.dropdown-menu{
+	padding-left: 0;
+}

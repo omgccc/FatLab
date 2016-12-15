@@ -1,0 +1,73 @@
+.blank{
+	margin-top: -40px;
+    margin-bottom: 40px;
+ 
+}
+.blank .map{
+	width: 100%;
+	height: 400px;
+}
+.row h4{
+	        color: #475168;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-family:  sans-serif;
+
+}
+.row  .left{
+	width: 457px;
+	float: left;
+padding:  0 15px;
+}
+.row .second-p{
+	margin-top: 60px;
+}
+.right {
+	float: left;
+	width: 712px;
+}
+.right form .form-group{
+	    margin-bottom: 15px;
+}
+.right form label{
+	    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.right form input,textarea{
+	border: 1px solid #e2e2e4;
+    box-shadow: none;
+    color: #c2c2c2;
+display: block;
+    width: 100%;
+    height: 22px;
+    padding: 6px 12px;
+    font-size: 14px;
+    vertical-align: middle;
+    background-color: #fff;
+}
+.right form textarea{
+	height: 102px;
+}
+.right form button{
+	    background-color: #ff6c60;
+    border-color: #ff6c60;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.right form button:hover{
+	    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}

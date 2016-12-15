@@ -1,0 +1,245 @@
+
+ 
+.main{
+	width: 1170px;
+	margin: 0 auto;
+}
+.main .pic img{
+	    display: block;
+	    width: 457px;
+    height: auto;
+    max-width: 100%;
+    line-height: 1;
+}
+
+.main .pic_text .pic{
+	float: left;
+}
+.main .pic_text .text{
+	width: 653px;
+	float:left;
+	    padding-right: 15px;
+    padding-left: 15px;
+}
+.text h3{color: #475168;
+	  margin: 0 0 10px;
+	      font-size: 24px;
+	      font-weight: 500;
+	      line-height: 1.1;
+}
+p{
+	    line-height: 22px;
+	        margin: 0 0 10px;
+}
+.ios{width: 49%;
+	float: left;
+	padding: 30px 5px;
+}
+.hiring h3{
+	font-size: 20px;
+	color: #475168;
+	margin-bottom: 10px;
+}
+.frontend{width: 49%;
+	float: left;
+	padding: 30px 5px;
+}
+.hiring{
+	margin-top: 60px;
+	margin-bottom: 40px;
+	width:100%;
+}
+.gray-box{
+	    background: #f2f2f2;
+    padding: 60px 0;
+    *margin-top: -40px;
+}
+.left-pic{
+	width: 40%;
+}
+.radius_pic{
+	float: left;
+}
+.author_name{
+	margin: 30px 0 8px 0;
+	float: left;
+}
+.author_name a{
+	color: #475168;
+}
+.radius_pic img{
+	-webkit-border-radius: 50px;
+    height: 100px !important;
+    width: 100px !important;
+}
+.radius_pic {
+	    
+    margin: 0 15px;
+    position: relative;
+}
+.about-testimonial-content{float: left;
+	margin-top: 0px;
+    padding: 20px;
+    position: relative;
+}
+.progress-skills{
+	    height: 30px;
+    box-shadow: none;
+    line-height: 30px;
+    background: #F77B6F;
+    border-radius: 5px;
+    color: white;
+}
+.progress-skills span{
+	padding-left: 30px;
+}
+.right-stick h3{
+	margin-bottom: 20px;
+}
+.right-stick{position: relative;
+left: 15px;
+	float: left;
+	width: 60%;
+}
+.skills-meter{
+	height: 30px;
+	width: 98%;
+	background-color: white;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+.about-testimonial-content{
+	background: #e9e9e9;
+    border: 1px solid #e9e9e9;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 420px;
+}
+.footertop{
+			background:white;
+}
+.footertop-nav{
+	width:1170PX;
+	margin: 0 auto;
+	}	
+.text-center{padding: 50px 0;
+		text-align: 	center;
+}
+.text-center h1{
+	    color: #475168;
+    font-size: 30px;
+    font-weight: 300;
+}
+.text-center p{
+	    color: #8a8b8b;
+    font-size: 18px;
+    font-weight: 300;
+}
+.person{
+	margin-bottom: 10px;
+}
+.person-info h4{
+	color: #f37c6b;
+	    font-weight: 300;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.col{
+	float: left;
+	    width: 30%;
+	    text-align: center;
+	    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 60px;
+}		
+.col .person img{
+	width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+.round{background: #f37d6c;
+	border-radius: 50%;
+	width: 60px;
+	height:60px;
+	float: left;
+	margin-right: 20px;
+}
+.sbanner{
+	  position: relative;
+    overflow: hidden;
+    width: 457px;
+        padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+
+}
+.sbanner .pic {
+	position: relative;
+  display: none;
+  left: 500px;
+  -webkit-transition: .6s ease-in-out left;
+  transition: .6s ease-in-out left;
+}
+.sbanner .pic.active{
+	left: 0;
+	display: block;
+}
+.sbanner .pic .under-text{
+	background: rgba(0,0,0,0.6);
+    padding-bottom: 0px;
+    bottom: 0;
+    color: #FFFFFF;
+    left: 0 !important;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    position: absolute;
+    right: 0 !important;
+    text-align: center;
+    text-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+    z-index: 10;
+}
+.sbanner .leftclick{
+	display: none;
+	width: 45px;
+	height: 52px;
+	background: url(../img/left.png)  no-repeat 14px 14px;
+	background-color: #000000 ;
+  bottom: 40%;
+ left: 15px;
+    opacity: 0.5;
+    position: absolute;
+    text-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+    top: 40%;
+    width: 10%;
+}
+.sbanner .rightclick{
+		display: none;
+	width: 45px;
+	height: 52px;
+	background: url(../img/right.png)  no-repeat 14px 14px;
+	background-color: #000000 ;
+  bottom: 40%;
+ right: 15px;
+    opacity: 0.5;
+    position: absolute;
+    text-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+    top: 40%;
+    width: 10%;
+}
+.sbanner a:hover{
+background-color: #F77B6F;
+}
+.team-link a{
+	   display: inline-block !important;
+    color: #cac8c7;
+    font-size: 20px;
+    margin: 0 8px;
+}
+.team-link {
+	    display: block;
+    margin: 10px 0 20px 0;
+}
+.team-link a:hover{
+	color: #F77B6F;
+}
