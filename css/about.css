@@ -7,7 +7,7 @@
 .main .pic img{
 	    display: block;
 	    width: 457px;
-    height: auto;
+	    height: 220px;
     max-width: 100%;
     line-height: 1;
 }

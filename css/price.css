@@ -16,6 +16,9 @@
     font-size: 18px;
     font-weight: 300;
 }
+.price-btn{
+	margin-top: 20px;
+}
 .diamond{
 	width: 270px;
 	float: left;
